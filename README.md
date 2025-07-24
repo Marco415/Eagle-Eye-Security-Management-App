@@ -6,6 +6,8 @@ An app used to manage the activities of a fictional security company
 
 An app created for Eagle Eye Security to manage shifts, sectors, incidents, equipment, and personnel.
 
+The program files can be located in the MainForm folder. The app can be installed from the setup.exe file in the Installation files folder.
+
 
 
 Project collaborators:
