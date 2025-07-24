@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|c:\\users\\marco\\onedrive\\documents\\it\\github repository\\eagle-eye-security-management-app\\mainform\\mainform\\incidentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|solutionrelative:mainform\\incidentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\mainform\\incidentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|solutionrelative:mainform\\incidentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\mainform\\securitypersonnelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|solutionrelative:mainform\\securitypersonnelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\mainform\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|solutionrelative:mainform\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\mainform\\securitypersonnelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|solutionrelative:mainform\\securitypersonnelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\mainform\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|solutionrelative:mainform\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\mainform\\incidentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|solutionrelative:mainform\\incidentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\mainform\\insertincidents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|solutionrelative:mainform\\insertincidents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\mainform\\insertincidents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|solutionrelative:mainform\\insertincidents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\mainform\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|solutionrelative:mainform\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\mainform\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4CC7AB-89AB-4593-9E8A-E7AF06DD63A8}|MainForm\\MainForm.csproj|solutionrelative:mainform\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\MainForm\\Reports.cs",
+              "RelativeDocumentMoniker": "MainForm\\Reports.cs",
+              "ToolTip": "D:\\NWU\\2024\\Sem 2\\CMPG223\\Project\\CMPG223FinalGroup17\\MainForm\\MainForm\\Reports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:56:16.2Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IncidentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\MainForm\\IncidentForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm\\IncidentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\MainForm\\IncidentForm.Designer.cs",
+              "RelativeToolTip": "MainForm\\IncidentForm.Designer.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAApwJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:19:01.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\MainForm\\Reports.cs",
+              "RelativeDocumentMoniker": "MainForm\\Reports.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\MainForm\\Reports.cs",
+              "RelativeToolTip": "MainForm\\Reports.cs",
+              "ViewState": "AQIAAIkBAAAAAAAAAAAgwKABAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T12:17:27.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InsertIncidents.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\MainForm\\InsertIncidents.cs",
+              "RelativeDocumentMoniker": "MainForm\\InsertIncidents.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\MainForm\\InsertIncidents.cs",
+              "RelativeToolTip": "MainForm\\InsertIncidents.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAApwHoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:55:04.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InsertIncidents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\MainForm\\InsertIncidents.cs",
+              "RelativeDocumentMoniker": "MainForm\\InsertIncidents.cs",
+              "ToolTip": "D:\\NWU\\2024\\Sem 2\\CMPG223\\Project\\CMPG223FinalGroup17\\MainForm\\MainForm\\InsertIncidents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:08:17.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IncidentForm.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\MainForm\\IncidentForm.cs",
+              "RelativeDocumentMoniker": "MainForm\\IncidentForm.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\MainForm\\IncidentForm.cs",
+              "RelativeToolTip": "MainForm\\IncidentForm.cs",
+              "ViewState": "AgIAAFoEAAAAAAAAAAAqwHkEAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:31:45.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecurityPersonnelForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\MainForm\\SecurityPersonnelForm.cs",
+              "RelativeDocumentMoniker": "MainForm\\SecurityPersonnelForm.cs",
+              "ToolTip": "D:\\NWU\\2024\\Sem 2\\CMPG223\\Project\\CMPG223FinalGroup17\\MainForm\\MainForm\\SecurityPersonnelForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:28:25.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecurityPersonnelForm.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\MainForm\\SecurityPersonnelForm.cs",
+              "RelativeDocumentMoniker": "MainForm\\SecurityPersonnelForm.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\MainForm\\SecurityPersonnelForm.cs",
+              "RelativeToolTip": "MainForm\\SecurityPersonnelForm.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAlwNIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:28:34.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IncidentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\MainForm\\IncidentForm.cs",
+              "RelativeDocumentMoniker": "MainForm\\IncidentForm.cs",
+              "ToolTip": "D:\\NWU\\2024\\Sem 2\\CMPG223\\Project\\CMPG223FinalGroup17\\MainForm\\MainForm\\IncidentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:31:41.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\MainForm\\Equipment.cs",
+              "RelativeDocumentMoniker": "MainForm\\Equipment.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\MainForm\\Equipment.cs",
+              "RelativeToolTip": "MainForm\\Equipment.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAjwLMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:30:39.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Equipment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\IT\\GitHub Repository\\Eagle-Eye-Security-Management-App\\MainForm\\MainForm\\Equipment.cs",
+              "RelativeDocumentMoniker": "MainForm\\Equipment.cs",
+              "ToolTip": "D:\\NWU\\2024\\Sem 2\\CMPG223\\Project\\CMPG223FinalGroup17\\MainForm\\MainForm\\Equipment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:05:26.42Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
